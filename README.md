@@ -8,9 +8,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - **Tools**: Git, Docker, Figma
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
-## 📈 GitHub Stats
-![Geveyesyem's GitHub stats](https://github-readme-stats.vercel.app/api?username=geveyesyem14&show_icons=true&theme=radical)
-
 ## 🌱 What I'm Currently Learning
 - Advanced TypeScript
 - Machine Learning with TensorFlow
