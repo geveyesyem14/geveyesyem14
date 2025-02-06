@@ -18,13 +18,12 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 📫 How to Reach Me
 - **Email**: geveyesyem@example.com
-- **LinkedIn**: [Geveyesyem](https://www.linkedin.com/in/geveyesyem14/)
-- **Website**: [@geveyesyem14](https://quantabox.in/Venkat-Profile/)
+- **LinkedIn**: [geveyesyem](https://www.linkedin.com/in/geveyesyem14/)
+- **Website**: [https://quantabox.in/Venkat-Profile/](https://quantabox.in/Venkat-Profile/)
 
 ## 💬 Ask Me About
 - Web Development
 - Open Source Contributions
-- DevOps Practices
 
 ## 📂 Projects
 Here are a few of my favorite projects:
@@ -32,20 +31,14 @@ Here are a few of my favorite projects:
 ### Project 1: Awesome Web App
 A full-stack web application built with React and Node.js.
 
-- **Repository**: [awesome-web-app](https://github.com/geveyesyem14/awesome-web-app)
+- **Repository**: [awesome-web-app](https://github.com/geveyesyem14/LoopStream-vueJS)
 - **Technologies**: React, Node.js, MongoDB
 
-### Project 2: Machine Learning Model
+### Project 2: landing page
 A machine learning model for predicting house prices.
 
-- **Repository**: [house-price-predictor](https://github.com/geveyesyem14/house-price-predictor)
-- **Technologies**: Python, TensorFlow, Scikit-Learn
-
-### Project 3: DevOps CI/CD Pipeline
-A CI/CD pipeline setup with Jenkins and Docker.
-
-- **Repository**: [devops-pipeline](https://github.com/geveyesyem14/devops-pipeline)
-- **Technologies**: Jenkins, Docker, Kubernetes
+- **Repository**: [house-price-predictor](https://github.com/geveyesyem14/React)
+- **Technologies**: React, HTML, CSS, Bootstrap
 
 ## 📜 Blog Posts
 I love sharing my knowledge through blog posts. Check out some of my recent articles:
