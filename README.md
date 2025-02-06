@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ## 📫 How to Reach Me
 - **Email**: geveyesyem@example.com
 - **LinkedIn**: [geveyesyem](https://www.linkedin.com/in/geveyesyem14/)
-- **Website**: [https://quantabox.in/Venkat-Profile/](https://quantabox.in/Venkat-Profile/)
+- **Website**: [www.quantabox.in/Venkat-Profile](https://quantabox.in/Venkat-Profile/)
 
 ## 💬 Ask Me About
 - Web Development
