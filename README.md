@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - Frontend Frameworks
 
 ## 📫 How to Reach Me
-- **Email**: geveyesyem@example.com
-- **LinkedIn**: [geveyesyem](https://www.linkedin.com/in/geveyesyem14/)
+- **Email**: geveyesyem14@gmail.com
+- **LinkedIn**: [geveyesyem14](https://www.linkedin.com/in/geveyesyem14/)
 - **Website**: [www.quantabox.in/Venkat-Profile](https://quantabox.in/Venkat-Profile/)
 
 ## 💬 Ask Me About
