@@ -32,9 +32,9 @@ A full-stack web application built with React and Node.js.
 - **Technologies**: React, Node.js, MongoDB
 
 ### Project 2: landing page
-A machine learning model for predicting house prices.
+Social media landing pages for single web pages.
 
-- **Repository**: [house-price-predictor](https://github.com/geveyesyem14/React)
+- **Repository**: [social-media-landing-pages](https://github.com/geveyesyem14/React)
 - **Technologies**: React, HTML, CSS, Bootstrap
 
 ## 📜 Blog Posts
