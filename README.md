@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ## 🔧 Technologies & Tools
 - **Languages**: HTML, CSS, JavaScript, PHP
 - **Frameworks**: React, Node.js, Angular, CodeIgniter
-- **Tools**: Git, Docker, Figma
+- **Tools**: Git, Jira, Figma
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
 ## 🌱 What I'm Currently Learning
