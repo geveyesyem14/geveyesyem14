@@ -40,8 +40,6 @@ Social media landing pages for single web pages.
 ## 📜 Blog Posts
 I love sharing my knowledge through blog posts. Check out some of my recent articles:
 
-- [Venkat profile](http://quantabox.in/Venkat-Profile)
-
 ## 🎯 Goals for 2025
 - Contribute to 10+ open-source projects
 - Build a personal portfolio website
